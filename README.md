@@ -1,32 +1,40 @@
-🚀 Machine Learning Stroke Prediction Project 🧠
+# 🧠 Machine Learning Stroke Prediction Project
 
 An advanced machine learning project designed to predict stroke occurrences using healthcare data, implementing various classification models and data preprocessing techniques.
 
-📌 Project Overview
-This project leverages machine learning algorithms to predict stroke risk using healthcare data. It employs four classifiers — Naïve Bayes, XGBoost, Random Forest, and Support Vector Machine (SVM). To address class imbalance in the dataset, SMOTE (Synthetic Minority Over-sampling Technique) was applied, ensuring balanced model training and evaluation. Performance metrics including Accuracy, Precision, Recall, F1-Score, and ROC-AUC were used to assess model effectiveness.
+---
 
-🏆 Key Achievements
-- Implemented four advanced machine learning classifiers (Naïve Bayes, XGBoost, Random Forest, SVM).
-- Enhanced prediction accuracy through data preprocessing and class balancing with SMOTE.
-- Achieved balanced model evaluation using Stratified 5-Fold Cross-Validation.
-- Developed and optimized the complete model pipeline using Python and Scikit-learn.
+## 📌 Project Overview
+This project helps in predicting the risk of stroke using healthcare data, providing insights into early diagnosis and preventive care. It employs multiple machine learning classifiers to ensure accurate predictions and applies data preprocessing techniques for optimal performance.
 
-🛠️ Technologies & Tools
-- Programming Language: Python  
-- Machine Learning Libraries: Scikit-learn, XGBoost, Imbalanced-learn  
-- Data Visualization: Matplotlib, Seaborn  
-- Development Environment: Jupyter Notebook  
-- Preprocessing Techniques: Label Encoding, SMOTE (Synthetic Minority Over-sampling Technique), Stratified 5-Fold Cross-Validation  
+---
 
-📂 Project Files
+## 🏆 Key Achievements
+✅ Enhanced stroke prediction accuracy through data preprocessing and model optimization.  
+✅ Implemented multiple classifiers (Naïve Bayes, XGBoost, Random Forest, SVM) for robust model comparison.  
+✅ Applied SMOTE (Synthetic Minority Over-sampling Technique) to address class imbalance.  
+✅ Achieved balanced evaluation using Stratified 5-Fold Cross-Validation.  
 
-- 📁 [Dataset Source (Kaggle)](https://www.kaggle.com/datasets/godfatherfigure/healthcare-dataset-stroke-data)
-  
-🚀 Getting Started
-To explore and use this project, follow these steps:
+---
 
-# Install required libraries
-pip install -r requirements.txt
+## 🛠️ Technologies & Tools
+- **Programming Language:** Python  
+- **Machine Learning Libraries:** Scikit-learn, XGBoost, Imbalanced-learn  
+- **Data Visualization:** Matplotlib, Seaborn  
+- **Development Environment:** Jupyter Notebook  
+- **Preprocessing Techniques:** Label Encoding, SMOTE, Stratified 5-Fold Cross-Validation  
 
-# Run the Jupyter Notebook
-jupyter notebook Stroke_Prediction_Model.ipynb
+---
+
+## 📂 Project Files
+- 📄 [Project Report (PDF)](https://github.com/pavan0978/Healthcare-Dataset-Stroke-Data/blob/main/YourProjectReport.pdf)  
+- 📁 [Model Code (Jupyter Notebook)](https://github.com/pavan0978/Healthcare-Dataset-Stroke-Data/blob/main/YourNotebook.ipynb)  
+
+---
+
+## 🚀 Getting Started
+To explore and use this system, follow these steps:
+
+```bash
+git clone https://github.com/pavan0978/Healthcare-Dataset-Stroke-Data.git
+cd Healthcare-Dataset-Stroke-Data
