@@ -21,6 +21,7 @@ This project leverages machine learning algorithms to predict stroke risk using 
 📂 Project Files
 
 - 📁 [Dataset Source (Kaggle)](https://www.kaggle.com/datasets/godfatherfigure/healthcare-dataset-stroke-data)
+- 📂 https://github.com/pavan0978/Academic-Analytics-System/blob/main/FSE%20Project.pdf
 
 🚀 Getting Started
 To explore and use this project, follow these steps:
